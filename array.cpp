@@ -1,3 +1,7 @@
+// insertion of an element into the given 1-D array using another 
+// empty array.
+
+
 #include <iostream>
 
 using namespace std;
